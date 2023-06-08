@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img alt="Coding" width="35" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif">, I'm Sachin Sharma</h1><br>
-<br><img align="right" alt="Coding" width="380" height="400" src="https://camo.githubusercontent.com/014ced0ecb67aec090170d7f2d50a772303d00a25ec3cc9d61c72252c17900e0/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c50387875357432444c47473034354838462f67697068792e6769663f6369643d65636630356534373466347a3835363774683631386136306a6d366f7778786e757161346467696665376f7577787872267269643d67697068792e6769662663743d73">
+<br><img align="right" alt="Coding" width="370" height="400" src="https://camo.githubusercontent.com/014ced0ecb67aec090170d7f2d50a772303d00a25ec3cc9d61c72252c17900e0/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c50387875357432444c47473034354838462f67697068792e6769663f6369643d65636630356534373466347a3835363774683631386136306a6d366f7778786e757161346467696665376f7577787872267269643d67697068792e6769662663743d73">
 # 💫 About Me:
 🔭 I’m currently working on <a href="https://github.com/Sachin6126/Automation-Project" target="_blank">Web Automation</a><br>🌱 I’m currently learning <b>Web Automation Technologies</b><br>💬 Ask me about <b>Web Testing, Selenium WebDriver, TestNG Framework</b>
 
